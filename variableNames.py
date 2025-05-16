@@ -16,7 +16,7 @@ CARNAME = "civic"
 # Illegal variable names:
 2car = "corola"
 car name = "city"
-car- name = "Crown"
+car - name = "Crown"
 
 # Multi word variables names
 # variable name are more the one word are difficult to read. we use some teqniques
