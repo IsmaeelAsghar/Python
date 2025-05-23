@@ -61,4 +61,6 @@ else:
 
 # Check if an object is in an integer or not
 a = 10
-print(isinstance(a, str))
+print(isinstance(a, int))
+
+
