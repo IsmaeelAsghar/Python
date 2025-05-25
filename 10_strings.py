@@ -1,4 +1,4 @@
-# Python srrings
+# Python strings
 
 # strings in python 'hello' and "hello" are same
 
