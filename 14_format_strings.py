@@ -1,4 +1,4 @@
-# Format - Strings
+# Format Strings
 # we cannot combine strings and numbers
 
 # Wrong format
